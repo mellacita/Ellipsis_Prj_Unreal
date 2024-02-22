@@ -1,0 +1,22 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Utu Plugin - Unity To Unreal Project Converter",
+	"Description": "A tool to help you convert your Unity project into an Unreal project.",
+	"Category": "Alex Quevillon",
+	"CreatedBy": "Alex Quevillon",
+	"CreatedByURL": "",
+	"DocsURL": "https://www.youtube.com/AlexQuevillonEn",
+	"MarketplaceURL": "",
+	"SupportURL": "Alex.Quevillon.Help@gmail.com",
+	"CanContainContent": true,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "UtuPlugin",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	]
+}
